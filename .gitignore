@@ -1,0 +1,13 @@
+node_modules/
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+.env
+.env.*
+!.env.example
+
+earch android.jar
+index_avant_langues.html
+index_sauvegarde.html

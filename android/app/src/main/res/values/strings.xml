@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NioChat</string>
+    <string name="title_activity_main">NioChat</string>
+    <string name="package_name">com.niochat.app</string>
+    <string name="custom_url_scheme">com.niochat.app</string>
+</resources>
